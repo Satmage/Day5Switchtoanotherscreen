@@ -10,6 +10,11 @@
         Всё ходит по цепи кругом;\n
         Идёт <b>направо</b> - песнь заводит,\n
         <b>Налево</b> - сказку говорит.</string>
-    
+
     <string name="about_title">О программе</string>
+
+    <string name="data_transfer_title">Передача данных</string>
+    <string name="main_title">День 5. На другой экран</string>
+
+    <string name="data_transfer_text"></string>
 </resources>
