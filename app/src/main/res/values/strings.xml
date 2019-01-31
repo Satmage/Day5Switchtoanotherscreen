@@ -16,5 +16,10 @@
     <string name="data_transfer_title">Передача данных</string>
     <string name="main_title">День 5. На другой экран</string>
 
-    <string name="data_transfer_text"></string>
+    <string name="data_transfer_text">Ждем передачи текста</string>
+
+    <string name="buttonSend">Передать</string>
+    
+    <string name="main_who">Кому:</string>
+    <string name="main_description">Описание:</string>
 </resources>
